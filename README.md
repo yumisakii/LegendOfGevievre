@@ -30,6 +30,12 @@ I was responsible for the end-to-end implementation of specific weapons and core
 * Programmed a custom projectile behavior that simulates network lag.
 * Utilized intermittent velocity stops and stutters mid-flight to mimic a bad internet connection while maintaining hit detection accuracy.
 
+**Power-Up System**
+I implemented the core logic for the game's consumable items, handling both immediate and duration-based effects:
+* **Magnet:** Created a global event that overrides the standard XP attraction logic, drawing all active gems on the map to the player instantly.
+* **Shield:** Implemented temporary invulnerability states and damage mitigation.
+* **Heal:** Managed health restoration logic and UI updates.
+
 **XP Economy & Progression**
 * Developed the underlying economy for experience points.
 * Handled the instantiation, pooling, and collection logic for XP drops from enemies.
@@ -42,6 +48,9 @@ I was responsible for the end-to-end implementation of specific weapons and core
 As a 3rd-year student working with 1st and 2nd-year developers, I took on a technical leadership role:
 * **Code Reviews:** Helped junior team members debug their systems and integrate their work into the main branch.
 * **Guidance:** Assisted in solving merge conflicts and architectural blockers.
+
+### Cross-Disciplinary Collaboration
+**Asset Integration:** Acted as the technical bridge between the art and code teams. I integrated sprites and animations provided by our 2D artist, ensuring proper scaling, pivot points, and animation state transitions within the engine.
 
 ### Game Design
 * **Concept:** Co-designed the "intended bugs" for the entire arsenal, ensuring the mechanics were frustratingly fun rather than just broken.
