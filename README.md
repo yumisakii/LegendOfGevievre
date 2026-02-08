@@ -59,8 +59,7 @@ As a 3rd-year student working with 1st and 2nd-year developers, I took on a tech
 ---
 
 ## Visuals
-
-![GIF PLACEHOLDER: Showcase of the Scythe Kidnap mechanic or Bow Lag]
+![gevievreGIF2-ezgif com-optimize](https://github.com/user-attachments/assets/ac77efe2-2ed7-4aa2-b54d-6c5659e321a3)
 
 ---
 
